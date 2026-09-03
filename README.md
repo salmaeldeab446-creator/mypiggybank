@@ -1,6 +1,6 @@
 # Project 1 — My Piggy Bank
 
-**Author:** Salma Ahmed
+**Author:** Salma Ahmed Abdelfattah
 
 ## Description
 A C application that manages a piggy bank system without using dynamic memory allocation (`malloc`) or floating-point numbers (`float`). It handles various coin denominations, displays ASCII bar charts for counts, tracks available toys to buy, and complies strictly with the C99 standard.
